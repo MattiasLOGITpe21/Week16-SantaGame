@@ -1,0 +1,16 @@
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\bin\Debug\netcoreapp3.1\ChristmasGame.exe
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\bin\Debug\netcoreapp3.1\ChristmasGame.deps.json
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\bin\Debug\netcoreapp3.1\ChristmasGame.runtimeconfig.json
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\bin\Debug\netcoreapp3.1\ChristmasGame.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\bin\Debug\netcoreapp3.1\ChristmasGame.dll
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\bin\Debug\netcoreapp3.1\ChristmasGame.pdb
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\obj\Debug\netcoreapp3.1\ChristmasGame.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\obj\Debug\netcoreapp3.1\ChristmasGame.Form1.resources
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\obj\Debug\netcoreapp3.1\ChristmasGame.Properties.Resources.resources
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\obj\Debug\netcoreapp3.1\ChristmasGame.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\obj\Debug\netcoreapp3.1\ChristmasGame.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\obj\Debug\netcoreapp3.1\ChristmasGame.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\obj\Debug\netcoreapp3.1\ChristmasGame.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\obj\Debug\netcoreapp3.1\ChristmasGame.dll
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\obj\Debug\netcoreapp3.1\ChristmasGame.pdb
+C:\Users\opilane\source\repos\ChristmasGame\ChristmasGame\obj\Debug\netcoreapp3.1\ChristmasGame.genruntimeconfig.cache
